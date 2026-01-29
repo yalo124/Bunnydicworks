@@ -188,5 +188,6 @@ if (menuIcon) {
 }
 
 function openVideo(id) {
-    window.location.href = "Sugarcane.html?video=" + encodeURIComponent(id);
+    window.location.href = "sugarcane.html?video=" + encodeURIComponent(id);
 }
+
